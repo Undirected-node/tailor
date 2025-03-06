@@ -62,7 +62,6 @@ public class Users {
     public void setSerialNo(Long serialNo) {
         this.serialNo = serialNo;
     }
-
     public String getId() {
         return id;
     }
